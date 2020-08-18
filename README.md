@@ -1,2 +1,2 @@
 # DucksBedtimeBot
-TelegramBot to reming us to brings ducks to bed
+TelegramBot to remind us to bring ducks to bed
